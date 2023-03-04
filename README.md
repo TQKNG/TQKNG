@@ -19,9 +19,6 @@ I am a self-motivated learner with experience in MERN stack development.
 - 📱 I’m currently learning about mobile application development  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I am a big fan of ChatGPT  
   
 
