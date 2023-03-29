@@ -5,7 +5,7 @@
 
 # Hi 👋! My name is Khanh.
 I  ❤️ coding !!
-I am into creating web-based business solutions.
+I am into creating web-based to streamline business operations.
 I am a self-motivated learner with experience in MERN stack development.
   
   
@@ -13,13 +13,13 @@ I am a self-motivated learner with experience in MERN stack development.
 
 
 ### About Me  
-- 🚚 I’m currently working on Warehouse Web Application Solutions  
+- 🚚 I’m currently working on personal projects to improve my skill sets.  
   
 
-- 📱 I’m currently learning about mobile application development  
+- 📱 I’m currently learning about mobile application development. 
   
 
-- ⚡ Fun fact: I am a big fan of ChatGPT  
+- ⚡ I am a big fan of ChatGPT.
   
 
 <br/>  
