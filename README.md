@@ -5,7 +5,7 @@
 
 # Hi 👋! My name is Khanh.
 I  ❤️ coding !!
-I am into creating web-based to streamline business operations.
+
 I am a self-motivated learner with experience in MERN stack development.
   
   
