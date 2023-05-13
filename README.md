@@ -69,7 +69,7 @@ I am a self-motivated learner with experience in MERN stack development.
 
 <br/>  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/TQKNG?theme=dark&font=Noto%20Sans%20Javanese)
 
 ## Connect with me  
 <div align="center">
