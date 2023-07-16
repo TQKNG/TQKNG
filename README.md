@@ -4,7 +4,6 @@
   
 
 # Hi 👋! My name is Khanh.
-I  ❤️ coding !!
 
 I am a self-motivated learner with experience in MERN stack development.
   
