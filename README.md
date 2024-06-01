@@ -62,6 +62,12 @@ This blend of experience and enthusiasm fuels my journey as a software engineer,
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>
 
+## Contribution
+<div align="center">
+<a href="https://linkedin.com/in/khanhngt" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 </td></tr></table>  
 
 
