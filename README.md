@@ -5,20 +5,15 @@
 
 # Hi 👋! My name is Khanh.
 
-I am a self-motivated learner with experience in MERN stack development.
-  
-  
+My career began as a Supply Chain Analyst, where I honed my skills in optimizing logistics, warehouse management, and stock planning. Driven by a passion for advanced technology and robust software solutions that streamline daily operations, I transitioned into the software development field.
+
+My Competency:
+⚡ An Efficient Problem-Solver: I excel at identifying issues and implementing effective solutions quickly.
+📚 A Fast Learner: I rapidly assimilate new information and adapt to evolving technologies and methodologies.
+💡An Innovative Pioneer: I thrive on pioneering new ideas and technologies to enhance efficiency and effectiveness.
 
 
-
-### About Me  
-- 🚚 I’m currently working on personal projects to improve my skill sets.  
-  
-
-- 📱 I’m currently learning about mobile application development. 
-  
-
-- ⚡ I am a big fan of ChatGPT.
+This blend of experience and enthusiasm fuels my journey as a software engineer, with the aspiration to lead and innovate in the tech industry.
   
 
 <br/>  
@@ -68,7 +63,6 @@ I am a self-motivated learner with experience in MERN stack development.
 
 <br/>  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/TQKNG)
 
 ## Connect with me  
 <div align="center">
