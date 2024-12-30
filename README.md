@@ -5,20 +5,6 @@
 
 # Hi 👋! My name is Khanh.
 
-My career began as a Supply Chain Analyst, where I honed my skills in optimizing logistics, warehouse management, and stock planning. Driven by a passion for advanced technology and robust software solutions that streamline daily operations, I transitioned into the software development field.
-
-My Competency:
-
-⚡ An Efficient Problem-Solver: I excel at identifying issues and implementing effective solutions quickly.
-
-📚 A Fast Learner: I rapidly assimilate new information and adapt to evolving technologies and methodologies.
-
-💡An Innovative Pioneer: I thrive on pioneering new ideas and technologies to enhance efficiency and effectiveness.
-
-
-This blend of experience and enthusiasm fuels my journey as a software engineer, with the aspiration to lead and innovate in the tech industry.
-  
-
 <br/>  
 
 
