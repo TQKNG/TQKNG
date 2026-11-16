@@ -12,7 +12,3 @@ I work with TypeScript, Python, React, FastAPI, Azure, Bicep, Docker, and GitHub
 ## Explore my work
 
 Visit [khanhng.com](https://khanhng.com) for my portfolio, projects, and professional background.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/khanhngt) · [Portfolio](https://khanhng.com)
