@@ -1,6 +1,10 @@
-# Hi, I'm Khanh Nguyen
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Khanh Nguyen - full-stack developer building AI-assisted products, cloud automation, and modern web applications." width="100%" />
+</p>
 
-Full-stack developer building AI-assisted products, cloud automation, and modern web applications.
+<p align="center">
+  <strong>Full-stack developer building AI-assisted products, cloud automation, and modern web applications.</strong>
+</p>
 
 I work with TypeScript, Python, React, FastAPI, Azure, Bicep, Docker, and GitHub Actions.
 
