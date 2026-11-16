@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Khanh Nguyen profile banner</title>
+  <desc id="desc">Khanh Nguyen, full-stack developer building AI-assisted products, cloud automation, and modern web applications.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="58%" stop-color="#111B35"/>
+      <stop offset="100%" stop-color="#1B1640"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="20" fill="url(#grid)"/>
+  <circle cx="1010" cy="120" r="190" fill="#22D3EE" opacity=".08"/>
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round">
+    <path d="M760 190C830 150 835 88 900 78S1005 120 1060 54S1130 58 1180 28" stroke-width="3" opacity=".8"/>
+    <path d="M790 216C870 185 905 145 956 150S1040 185 1085 122S1140 105 1195 92" stroke-width="1.5" opacity=".45"/>
+    <path d="M835 32C880 70 930 54 972 84S1060 30 1120 62S1160 120 1200 140" stroke-width="1.5" opacity=".35"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="900" cy="78" r="5"/>
+    <circle cx="1060" cy="54" r="6"/>
+    <circle cx="1085" cy="122" r="4"/>
+  </g>
+  <g fill="#A78BFA">
+    <circle cx="956" cy="150" r="4"/>
+    <circle cx="1120" cy="62" r="5"/>
+  </g>
+  <rect x="64" y="52" width="8" height="136" rx="4" fill="url(#accent)"/>
+  <text x="104" y="92" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="4">KHANH NGUYEN</text>
+  <text x="104" y="139" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">AI • CLOUD • PRODUCT</text>
+  <text x="104" y="174" fill="#A5B4FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building useful systems for complex workflows.</text>
+</svg>
