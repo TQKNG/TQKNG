@@ -3,7 +3,3 @@
 </p>
 
 I work with TypeScript, Python, React, FastAPI, Azure, Bicep, Docker, and GitHub Actions.
-
-## Explore my work
-
-Visit [khanhng.com](https://khanhng.com) for my portfolio, projects, and professional background.
