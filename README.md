@@ -16,11 +16,11 @@
   <img src="https://skillicons.dev/icons?i=react,cs,vue,nextjs,nodejs,azure,py&amp;theme=dark&amp;perline=7" alt="React, C sharp, Vue, Next.js, Node.js, Azure, and Python" width="490" />
 </p>
 <p align="center">
-  <img src="./assets/stack-icons/microsoft-sql-server.svg" alt="Microsoft SQL Server" height="48" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" height="48" />&nbsp;&nbsp;
-  <img src="./assets/stack-icons/codex.svg" alt="Codex" height="48" />&nbsp;&nbsp;
-  <img src="./assets/stack-icons/claude.svg" alt="Claude" height="48" />&nbsp;&nbsp;
-  <img src="./assets/stack-icons/github-copilot.svg" alt="GitHub Copilot" height="48" />
+  <img src="./assets/stack-icons/microsoft-sql-server.svg" alt="Microsoft SQL Server" width="60" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="60" height="60" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/codex.svg" alt="Codex" width="60" height="60" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/claude.svg" alt="Claude" width="60" height="60" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/github-copilot.svg" alt="GitHub Copilot" width="60" height="60" />
 </p>
 <p align="center">
   <strong>React · C# · Vue · Next.js · Node.js · Azure · Python</strong><br />
