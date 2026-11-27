@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/profile-banner-blueprint.jpg" alt="Khanh Nguyen — Software Engineer · AI Agentic Workflow · Azure Cloud" width="100%" />
+  <a href="https://cs210032002b3e09a5d.blob.core.windows.net/portfolio-assets/brand/Logo_v3_Animation.mp4" title="Watch the Kcode logo animation with sound">
+    <img src="./assets/profile-banner-kcode.gif" alt="Animated Kcode logo with a robotic arm drawing light across the K" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">I build software for people<br />doing difficult work.</h1>
@@ -11,9 +13,19 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,cs,vue,nextjs,nodejs,azure&amp;theme=dark&amp;perline=6" alt="React, C sharp, Vue, Next.js, Node.js, and Microsoft Azure" width="420" />
+  <img src="https://skillicons.dev/icons?i=react,cs,vue,nextjs,nodejs,azure,py&amp;theme=dark&amp;perline=7" alt="React, C sharp, Vue, Next.js, Node.js, Azure, and Python" width="490" />
 </p>
-<p align="center"><strong>React · C# · Vue · Next.js · Node.js · Azure</strong></p>
+<p align="center">
+  <img src="./assets/stack-icons/microsoft-sql-server.svg" alt="Microsoft SQL Server" height="48" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/codex.svg" alt="Codex" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/claude.svg" alt="Claude" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/github-copilot.svg" alt="GitHub Copilot" height="48" />
+</p>
+<p align="center">
+  <strong>React · C# · Vue · Next.js · Node.js · Azure · Python</strong><br />
+  <strong>SQL Server · PostgreSQL · Codex · Claude · GitHub Copilot</strong>
+</p>
 
 <br />
 
