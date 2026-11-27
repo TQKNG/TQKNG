@@ -11,9 +11,19 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,cs,vue,nextjs,nodejs,azure&amp;theme=dark&amp;perline=6" alt="React, C sharp, Vue, Next.js, Node.js, and Microsoft Azure" width="420" />
+  <img src="https://skillicons.dev/icons?i=react,cs,vue,nextjs,nodejs,azure,py&amp;theme=dark&amp;perline=7" alt="React, C sharp, Vue, Next.js, Node.js, Azure, and Python" width="490" />
 </p>
-<p align="center"><strong>React · C# · Vue · Next.js · Node.js · Azure</strong></p>
+<p align="center">
+  <img src="./assets/stack-icons/microsoft-sql-server.svg" alt="Microsoft SQL Server" height="48" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/codex.svg" alt="Codex" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/claude.svg" alt="Claude" height="48" />&nbsp;&nbsp;
+  <img src="./assets/stack-icons/github-copilot.svg" alt="GitHub Copilot" height="48" />
+</p>
+<p align="center">
+  <strong>React · C# · Vue · Next.js · Node.js · Azure · Python</strong><br />
+  <strong>SQL Server · PostgreSQL · Codex · Claude · GitHub Copilot</strong>
+</p>
 
 <br />
 
