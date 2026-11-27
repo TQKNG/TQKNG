@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title desc">
+<title id="title">Khanh Nguyen certifications</title>
+<desc id="desc">AZ-204, AI-103, PL-400, AB-100 and AB-731.</desc>
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14223D"/><stop offset="1" stop-color="#11182E"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38BDF8" stop-opacity=".65"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".45"/></linearGradient>
+</defs>
+
+<g transform="translate(5 2)">
+ <rect x="1" y="2" width="386" height="154" rx="18" fill="#0F172A" opacity=".18"/>
+ <rect x="0.75" y="0.75" width="386.5" height="153.5" rx="17" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+ <rect x="20" y="23" width="5" height="107" rx="2.5" fill="#38BDF8"/>
+ <circle cx="50" cy="38" r="9" fill="none" stroke="#38BDF8" stroke-width="2.5"/><path d="M46 38l3 3 6-7" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="68" y="44" fill="#A7B6D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">MICROSOFT CERTIFIED</text>
+ <text x="41" y="86" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">AZ-204</text>
+ <text x="41" y="113" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5" font-weight="600">Azure Developer</text>
+ <text x="41" y="136" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Associate</text>
+</g>
+<g transform="translate(407 2)">
+ <rect x="1" y="2" width="386" height="154" rx="18" fill="#0F172A" opacity=".18"/>
+ <rect x="0.75" y="0.75" width="386.5" height="153.5" rx="17" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+ <rect x="20" y="23" width="5" height="107" rx="2.5" fill="#22D3EE"/>
+ <circle cx="50" cy="38" r="9" fill="none" stroke="#22D3EE" stroke-width="2.5"/><path d="M46 38l3 3 6-7" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="68" y="44" fill="#A7B6D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">MICROSOFT CERTIFIED</text>
+ <text x="41" y="86" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">AI-103</text>
+ <text x="41" y="113" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5" font-weight="600">Azure AI Apps &amp; Agents</text>
+ <text x="41" y="136" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Developer Associate</text>
+</g>
+<g transform="translate(809 2)">
+ <rect x="1" y="2" width="386" height="154" rx="18" fill="#0F172A" opacity=".18"/>
+ <rect x="0.75" y="0.75" width="386.5" height="153.5" rx="17" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+ <rect x="20" y="23" width="5" height="107" rx="2.5" fill="#A78BFA"/>
+ <circle cx="50" cy="38" r="9" fill="none" stroke="#A78BFA" stroke-width="2.5"/><path d="M46 38l3 3 6-7" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="68" y="44" fill="#A7B6D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">MICROSOFT CERTIFIED</text>
+ <text x="41" y="86" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">PL-400</text>
+ <text x="41" y="113" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5" font-weight="600">Power Platform Developer</text>
+ <text x="41" y="136" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Associate</text>
+</g>
+<g transform="translate(206 172)">
+ <rect x="1" y="2" width="386" height="154" rx="18" fill="#0F172A" opacity=".18"/>
+ <rect x="0.75" y="0.75" width="386.5" height="153.5" rx="17" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+ <rect x="20" y="23" width="5" height="107" rx="2.5" fill="#38BDF8"/>
+ <circle cx="50" cy="38" r="9" fill="none" stroke="#38BDF8" stroke-width="2.5"/><path d="M46 38l3 3 6-7" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="68" y="44" fill="#A7B6D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">MICROSOFT CERTIFIED</text>
+ <text x="41" y="86" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">AB-100</text>
+ <text x="41" y="113" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5" font-weight="600">Agentic AI Business</text>
+ <text x="41" y="136" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Solutions Architect Expert</text>
+</g>
+<g transform="translate(608 172)">
+ <rect x="1" y="2" width="386" height="154" rx="18" fill="#0F172A" opacity=".18"/>
+ <rect x="0.75" y="0.75" width="386.5" height="153.5" rx="17" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+ <rect x="20" y="23" width="5" height="107" rx="2.5" fill="#A78BFA"/>
+ <circle cx="50" cy="38" r="9" fill="none" stroke="#A78BFA" stroke-width="2.5"/><path d="M46 38l3 3 6-7" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="68" y="44" fill="#A7B6D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">MICROSOFT CERTIFIED</text>
+ <text x="41" y="86" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">AB-731</text>
+ <text x="41" y="113" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5" font-weight="600">AI Transformation</text>
+ <text x="41" y="136" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Leader</text>
+</g>
+</svg>
