@@ -6,10 +6,6 @@
 
 <h1 align="center">I build software for people<br />doing difficult work.</h1>
 
-<p align="center">
-  I turn complex workflows into useful, reliable applications — from full-stack products to agentic AI and Azure solutions.
-</p>
-
 <br />
 
 <p align="center">
