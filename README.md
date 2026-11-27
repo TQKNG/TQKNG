@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/profile-banner-blueprint.jpg" alt="Khanh Nguyen — Software Engineer · AI Agentic Workflow · Azure Cloud" width="100%" />
+  <a href="https://cs210032002b3e09a5d.blob.core.windows.net/portfolio-assets/brand/Logo_v3_Animation.mp4" title="Watch the Kcode logo animation with sound">
+    <img src="./assets/profile-banner-kcode.gif" alt="Animated Kcode logo with a robotic arm drawing light across the K" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">I build software for people<br />doing difficult work.</h1>
